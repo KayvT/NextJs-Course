@@ -13,7 +13,7 @@
 }
 
 .title {
-  color: #D7B56E;
+  color: rgb(215, 181, 110);
   text-decoration: none;
 }
 
@@ -51,4 +51,4 @@
   .logo img {
     filter: invert(1);
   } */
-}
+/* } */
